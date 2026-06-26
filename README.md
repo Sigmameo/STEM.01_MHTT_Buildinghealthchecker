@@ -32,12 +32,12 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 
 *Học sinh bắt đầu điền nội dung dự án của nhóm mình từ đây. Thay thế các phần trong dấu `[...]` bằng thông tin thực tế của nhóm.*
 
-## 🚀 1. TÊN STARTUP: [Điền tên Startup của nhóm tại đây]
-* **Khẩu hiệu (Slogan):** "[Điền câu Slogan truyền cảm hứng của dự án]"
+## 🚀 1. TÊN STARTUP: MHTT Construction Solutions Limited 
+* **Khẩu hiệu (Slogan):** Build smarter, construct safer, live better
 * **Lớp:** [Ví dụ: STEM.01.26]
 
 ### 👥 Đội ngũ sáng lập (5 Vai trò - 5 Sức mạnh)
-1. **[Họ và tên HS 1]** - **CEO (Nhà chiến lược):** [Ví dụ: Điều phối nhóm, nghiên cứu thị trường và đưa ra quyết định cuối cùng.]
+1. **Lê Bá Nhật Minh** - **CEO (Nhà chiến lược):** 
 2. **[Họ và tên HS 2]** - **Nhà nghiên cứu xã hội:** [Ví dụ: Thu thập số liệu, tìm hiểu nỗi đau (Pain points) và nhu cầu của người dân.]
 3. **[Họ và tên HS 3]** - **Kỹ sư công nghệ:** [Ví dụ: Đề xuất và chịu trách nhiệm về kiến trúc công nghệ (AI, Robot, Drone, IoT...).]
 4. **[Họ và tên HS 4]** - **Nhà thiết kế trải nghiệm:** [Ví dụ: Phụ trách vẽ bản vẽ phối cảnh, thiết kế giao diện ứng dụng và slide.]
@@ -46,10 +46,16 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 ---
 
 ## ⚠️ 2. ĐẶT VẤN ĐỀ & TƯ DUY HỆ THỐNG (SYSTEM THINKING)
-* **Vấn đề nhức nhối nhóm chọn giải quyết:** [Ví dụ: Vấn nạn ùn tắc giao thông và ô nhiễm khí thải tại các đô thị lớn].
+* **Vấn đề nhức nhối nhóm chọn giải quyết:** Hệ thống hạ tầng và các công trình kiến trúc hiện đại đang đối mặt với một vấn đề cốt lõi: Sự lão hóa thầm lặng. Các công trình thương mại khổng lồ, cầu đường huyết mạch hay các tòa nhà chọc trời hiện nay chủ yếu được bảo trì theo phương thức "phản ứng" – tức là chỉ can thiệp khi các dấu hiệu xuống cấp (nứt vỡ, thấm dột, sụt lún) đã bộc lộ rõ rệt bằng mắt thường. Những tổn thương âm ỉ từ vi chấn động lòng đất, sự mỏi của vật liệu, hay sự ăn mòn bên trong lõi thép cốt bê tông thường bị bỏ qua hoàn toàn.
+*
+* Dữ liệu báo động: Theo thống kê từ Tổng cục Thống kê và cơ quan phòng chống thiên tai, tại các khu vực chịu nhiều ảnh hưởng bởi khí hậu khắc nghiệt như miền Trung và Tây Nguyên, thiệt hại do nhà ở sập đổ chiếm tới 67% tổng thiệt hại về cấu trúc mỗi khi có biến cố. Điều này minh chứng cho sự mong manh của các công trình khi không được tầm soát "thể trạng" định kỳ.
+
+
 * **Bản phân tích nguyên nhân - hậu quả:**
-  * *Nguyên nhân:* [Ý thức người dân chưa cao / Thiếu hệ thống đèn tín hiệu thông minh / Mật độ xe tăng nhanh...]
-  * *Hậu quả trực tiếp:* [Kẹt xe kéo dài / Ô nhiễm không khí / Gây stress và giảm chất lượng sống...]
+  * *Nguyên nhân:* Phương pháp kiểm định truyền thống phụ thuộc quá nhiều vào thị giác con người và các phép đo lường bề mặt. Cấu trúc bên trong tòa nhà xuống cấp một cách cực kỳ tinh vi. Chúng ta không có "tai mắt" để nhìn thấu lớp áo bê tông, dẫn đến việc thiếu hụt hoàn toàn dữ liệu vật lý theo thời gian thực về sức chịu đựng thực tế của công trình.
+
+  * *Hậu quả trực tiếp:* Sự thiếu hụt dữ liệu này dẫn đến những rủi ro sập đổ bất ngờ (như các sự cố gãy cầu, sập tòa nhà cũ đã từng xảy ra trên thế giới). Nó không chỉ gây ra thương vong lớn về nhân mạng, thiệt hại khổng lồ về kinh tế, mà còn phá vỡ nền tảng cơ bản nhất của một đô thị: Sự an toàn và an tâm của người dân.
+
 
 *Sơ đồ tư duy hệ thống chi tiết của nhóm (Đính kèm file ảnh từ thư mục research_system):*
 ![Sơ đồ hệ thống](research_system/[ten_file_anh_cua_nhom].png)
@@ -57,15 +63,21 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 ---
 
 ## 💡 3. THIẾT KẾ STARTUP & MÔ HÌNH KINH DOANH
-* **Khách hàng mục tiêu:** [Ví dụ: Ban quản lý đô thị thành phố, các trường học, hoặc trực tiếp người dân sinh sống tại chung cư].
-* **Giải pháp của Startup:** [Mô tả ngắn gọn cách sản phẩm/dịch vụ của bạn hoạt động để giải quyết vấn đề trên].
-* **Tổ hợp Công nghệ cốt lõi ứng dụng (Chọn các công nghệ phù hợp):**
-  * [ ] **AI Vision (Thị giác máy tính):** [Mô tả cách ứng dụng, ví dụ: Nhận diện mật độ xe qua camera]
-  * [ ] **Robot/UAV & Actuator (Cơ cấu chấp hành):** [Ví dụ: Cánh tay robot tự động phân loại rác]
-  * [ ] **IoT & Cloud (Internet vạn vật):** [Ví dụ: Gửi dữ liệu cảm biến thời gian thực lên máy chủ]
-  * [ ] **Green Energy (Năng lượng tái tạo):** [Ví dụ: Hệ thống sử dụng hoàn toàn pin mặt trời]
-  * [ ] **Big Data & Analytics:** [Ví dụ: Phân tích xu hướng di chuyển để dự báo kẹt xe]
+* **Khách hàng mục tiêu:**
+ Các công ty Quản lý Tòa nhà & Facility Management (FM): Tối ưu hóa chi phí bảo trì. Thay vì sửa chữa mù quáng, họ bảo trì dựa trên dự báo (Predictive Maintenance), tiết kiệm hàng triệu USD chi phí vận hành.
+Chủ đầu tư Bất động sản (Developers) & Quỹ đầu tư (REITs): Cung cấp bằng chứng minh bạch về chất lượng công trình để nâng cao giá trị tài sản trong các thương vụ M&A, đồng thời đáp ứng các tiêu chuẩn khắt khe về phát triển bền vững (ESG).
+Công ty Bảo hiểm rủi ro: Khách hàng vàng của dự án. Dữ liệu từ Robot giúp họ đánh giá lại mức phí bảo hiểm dựa trên mức độ rủi ro vật lý thực tế của công trình, giảm thiểu tỷ lệ bồi thường thiệt hại khống hoặc bất ngờ do sập đổ.
+Cơ quan quản lý nhà nước & Giao thông: Kiểm định định kỳ và tự động các hạ tầng công cộng yếu điểm như cầu vượt, hầm chui, đập thủy điện.
 
+* **Giải pháp của Startup:**
+ Startup của chúng tôi mang đến một cuộc cách mạng trong kiểm định hạ tầng bằng sự kết hợp giữa Robotics, IoT và Edge AI: Hệ thống Drone và Robot nhện bám tường tự hành.
+
+* **Tổ hợp Công nghệ cốt lõi ứng dụng (Chọn các công nghệ phù hợp):**
+  * [ ] **AI Vision (Thị giác máy tính):** Thiết bị được trang bị cảm biến gia tốc siêu nhạy và microphone siêu âm chuyên dụng. Khi di chuyển, thiết bị phát ra sóng âm nhẹ (acoustic emission) vào sâu trong cấu trúc và "lắng nghe" tần số âm dội lại.
+  * [ ] **Robot/UAV & Actuator (Cơ cấu chấp hành):**  Hệ thống Drone và Robot nhện bám tường tự hành.
+  * [ ] **IoT & Cloud (Internet vạn vật):** Thay vì gửi lượng dữ liệu khổng lồ lên Cloud gây độ trễ, thuật toán TinyML được nhúng trực tiếp trên chip của Robot sẽ phân tích phổ tần số theo thời gian thực.
+  * [ ] **Green Energy (Năng lượng tái tạo):** [Ví dụ: Hệ thống sử dụng hoàn toàn pin mặt trời]
+  * [ ] **Big Data & Analytics:**  Hệ thống lập tức lập bản đồ 3D chỉ ra chính xác vị trí các bọt khí ẩn, các vi vết nứt, đứt gãy lõi thép ngầm và đánh giá khả năng chịu chấn động hiện tại. => Đột phá: Đây không chỉ là công cụ bảo trì, mà là công cụ thẩm định giá trị tài sản vô giá dựa trên dữ liệu vật lý lõi, phục vụ trực tiếp cho các giao dịch M&A, định giá bất động sản thương mại và quản lý rủi ro thiên tai.
 ---
 
 ## 🎨 4. BẢN VẼ PHỐI CẢNH XÃ HỘI THÔNG MINH 2045
