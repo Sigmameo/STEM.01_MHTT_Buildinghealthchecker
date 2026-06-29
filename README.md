@@ -38,11 +38,10 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 
 ### 👥 Đội ngũ sáng lập (5 Vai trò - 5 Sức mạnh)
 1. **Lê Bá Nhật Minh** - **CEO (Nhà chiến lược):** 
-2. **[Họ và tên HS 2]** - **Nhà nghiên cứu xã hội:** [Ví dụ: Thu thập số liệu, tìm hiểu nỗi đau (Pain points) và nhu cầu của người dân.]
-3. **[Họ và tên HS 3]** - **Kỹ sư công nghệ:** [Ví dụ: Đề xuất và chịu trách nhiệm về kiến trúc công nghệ (AI, Robot, Drone, IoT...).]
-4. **[Họ và tên HS 4]** - **Nhà thiết kế trải nghiệm:** [Ví dụ: Phụ trách vẽ bản vẽ phối cảnh, thiết kế giao diện ứng dụng và slide.]
-5. **[Họ và tên HS 5]** - **Nhà đầu tư:** [Ví dụ: Đánh giá tính khả thi, chi phí - lợi ích và xây dựng mô hình kinh doanh.]
-
+2. **Nguyễn Hiếu Gia Huy** - **Nhà nghiên cứu xã hội:**
+3. **Mai Phan Nhất Thành** - **Kỹ sư công nghệ:**
+4. **Phạm Quang Tùng** - **Nhà thiết kế trải nghiệm:** 
+5. **Cả 4 thành viên** - **Nhà đầu tư:** 
 ---
 
 ## ⚠️ 2. ĐẶT VẤN ĐỀ & TƯ DUY HỆ THỐNG (SYSTEM THINKING)
